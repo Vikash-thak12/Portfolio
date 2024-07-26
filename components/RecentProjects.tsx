@@ -40,7 +40,7 @@ const RecentProjects = () => {
                                         ))
                                     }
                                 </div>
-                                <div className="bg-red-500  flex items-center justify-center gap-3 border lg:p-3 rounded-2xl bg-black-100 p-2">
+                                <div className="flex items-center justify-center gap-3 border lg:p-3 rounded-2xl bg-black-100 p-2">
                                     <p className="text-purple text-[10px] md:text-sm">Check Live Site</p>
                                     <FaLocationArrow />
                                 </div>
