@@ -38,7 +38,7 @@ const Footer = () => {
           Copyright © 2024 Vikash Thakur
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6">
+        <div className="flex items-center mt-5 md:gap-3 gap-6">
           {socialMedia.map((info) => (
             <a
               key={info.id}
