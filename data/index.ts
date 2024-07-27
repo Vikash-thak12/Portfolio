@@ -216,6 +216,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.instagram.com/vikassharma6356/"
+    link: "https://www.linkedin.com/in/vikashthak/"
   },
 ];
