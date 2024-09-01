@@ -17,14 +17,14 @@ const Hero = () => {
             </div>
             <div className='flex justify-center relative my-20 z-10'>
                 <div className='max-w-[89vh] md:max-w-2xl lg:max-w-[60vw] rounded-2xl flex flex-col items-center justify-center py-5'>
-                    <h2 className='uppercase tracking-widest text-xl text-center font-bold text-blue-100 max-w-96'>Welcome to the webpage</h2>
+                    <h2 className='uppercase tracking-widest text-xl text-center font-bold text-blue-100 max-w-96'>Welcome to my webpage</h2>
                     <TextGenerateEffect
                         className='text-center text-xl md:text-5xl lg:text-6xl px-4'
                         words='Transforming Concepts into Seamless User Experiences'
                     />
 
                     <p className='text-center font-semibold tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Hi, I&apos;m Vikash Thakur, A NextJs Developer from Nepal.
+                        Hi, I&apos;m Vikash Thakur, A NextJs Developer.
                     </p>
 
                     <a href="#about">
